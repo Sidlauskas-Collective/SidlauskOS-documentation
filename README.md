@@ -1,5 +1,6 @@
-Qubes OS Documentation
+SidlauskOS Documentation
 ======================
+The intention of this project is to create a highly accessable front end for Dom0 in the Qubes OS such that it can be used to aid in teaching.
 
 Canonical URL: https://www.qubes-os.org/doc/
 
